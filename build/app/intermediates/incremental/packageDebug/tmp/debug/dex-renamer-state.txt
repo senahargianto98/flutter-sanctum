@@ -1,0 +1,4 @@
+#Thu Jun 24 13:09:49 WIB 2021
+base.0=/home/sena/Documents/sanctum-flutter-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
